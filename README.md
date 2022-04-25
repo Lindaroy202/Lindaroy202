@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Linda Awasiri</h1>
-<h3 align="center">A passionate frontend and developer from Berlin</h3>
+<h3 align="center">A passionate Frontend and Backend Developer from Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindaroy202&label=Profile%20views&color=0e75b6&style=flat" alt="lindaroy202" /> </p>
 
